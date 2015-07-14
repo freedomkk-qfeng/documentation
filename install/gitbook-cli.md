@@ -3,7 +3,6 @@
 **查看帮助**
 
 ```bash
-
 $ gitbook help
 
   build [book] [output]          build a book`
